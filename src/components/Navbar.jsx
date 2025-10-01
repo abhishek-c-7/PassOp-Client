@@ -10,7 +10,7 @@ const Navbar = () => {
           <span className="text-green-500">OP/&gt;</span>
         </div>
 
-        <a href="https://github.com/abhishek-c-7/PassOp" target="_blank">
+        <a href="https://github.com/abhishek-c-7/PassOp-Client" target="_blank">
           <button className="text-white bg-green-700 my-5 rounded-full flex justify-between items-center outline ring-white ring-1">
             <img
               className="invert w-10 p-1"
